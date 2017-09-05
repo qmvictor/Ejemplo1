@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo1</string>
+    <string name="titulo_proyecto">Super App</string>
+    <string name="mensaje_texto">Android es lo máximo!</string>
+    <string name="titulo_inicio">Inicio</string>
+    <string name="boton_cambiar">Cambiar</string>
+    <string name="boton_cerrar">Cerrar</string>
+    <string name="etiqueta_fotos">Fotos</string>
+    <string name="mostrar">Mostrar</string>
+</resources>
